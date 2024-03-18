@@ -51,10 +51,10 @@
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
  </a>
  <a href="https://www.instagram.com/mubashir_aliyaar_37?igsh=MW0zb3c4Mm0xNTNxaw==" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
+  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="mubashir" />
  </a> 
- <a href="https://facebook.com/alsiam.dev" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="alsiam"  />
+ <a href="https://www.facebook.com/profile.php?id=100089259276299&mibextid=kFxxJD" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="mubashir"  />
   </a> 
 </p>
 <br />
@@ -124,7 +124,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/alsiam">
+  <a href="https://github.com/mubashir1837">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mubashir1837&theme=radical" alt="Mubashir's GitHub Contribution"/>
   </a>
 </p>
