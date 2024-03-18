@@ -59,6 +59,9 @@
   </a> 
   <a href="https://join.skype.com/invite/tbUVmyPL6ySt" target="_blank">
 <img src="https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white" alt="mubashir"  />
+  </a>
+   <a href="https://www.quora.com/profile/Mubashir-Ali-762" alt="mubashir" />
+  <img  src="https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white" alt="mubashir"  />
 </p>
 <br />
 
