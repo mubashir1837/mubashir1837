@@ -12,8 +12,8 @@
 
  -->
 
-<a href="https://komarev.com/ghpvc/?username=mubashirali">
-  <img align="right" src="https://komarev.com/ghpvc/?username=mubashir1837&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+<a href="https://mubashir/ghpvc/?username=mubashirali">
+  <img align="right" src="https://mubashir.com/ghpvc/?username=mubashir1837&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor"/>
 </a>
 
 
