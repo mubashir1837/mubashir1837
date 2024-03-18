@@ -28,7 +28,7 @@
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=Mubashir-Ali">「 Google  Me」</a>
+    <a href="https://www.google.com/search?q=Mubashir-Ali"><!--「 Google  Me」--></a>
     <br>
     [ I am a full stack web application developer from <b>Pakistan</b> ]
     <br>
@@ -61,6 +61,9 @@
 </a>
 <a href="https://www.quora.com/profile/Mubashir-Ali-762" alt="mubashir" />
 <img  src="https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white" alt="mubashir"  />
+</a>
+<a href="https://www.coursera.org/user/b24cee8c4f2cb522673997c014e5d401" alt="mubashir "/>
+<img src="https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white" alt="mubashir" />
 </p>
 <br />
 <br />
