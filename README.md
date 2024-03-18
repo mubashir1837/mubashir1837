@@ -56,6 +56,7 @@
  <a href="https://www.facebook.com/profile.php?id=100089259276299&mibextid=kFxxJD" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="mubashir"  />
   </a> 
+  <a href="https://join.skype.com/invite/tbUVmyPL6ySt" target="_blank">
 <img src="https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white" alt="mubashir"  />
 </p>
 <br />
