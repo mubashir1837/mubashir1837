@@ -39,7 +39,7 @@
 
 <p align="center">
  <a href="https://mubashir.com" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="ali" />
+  <img src=["https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc))" alt="ali" />
  </a>
  <a href="https://www.linkedin.com/in/mubashir-ali1837/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="ali"/>
@@ -56,6 +56,7 @@
  <a href="https://www.facebook.com/profile.php?id=100089259276299&mibextid=kFxxJD" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="mubashir"  />
   </a> 
+<img src="https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white" alt="mubashir"  />
 </p>
 <br />
 
