@@ -31,7 +31,8 @@
   <samp>
     <a href="https://www.google.com/search?q=Mubashir-Ali">「 Google  Me」</a>
     <br>
-    「 I am a full stack web application developer from <b>Pakistan</b> 」
+    [ I am a full stack web application developer from <b>Pakistan</b> ]
+    <br>
     <br>
     <br>
   </samp>
@@ -42,11 +43,11 @@
   <!--img src=["https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc))" alt="ali" />
  </a-->
  <a href="https://www.linkedin.com/in/mubashir-ali1837/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="ali"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="mubashir"/>
  </a>
- <!-- <a href="https://dev.to/alsiam" target="_blank">
-  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="alsiam" />
- </a> -->
+  <a href="https://dev.to/mubashir1837" target="_blank">
+  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="mubashir" />
+ </a> 
  <a href="https://x.com/MubashirAli1837?s=08" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="mubashir" />
  </a>
