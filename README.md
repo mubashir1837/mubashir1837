@@ -36,6 +36,10 @@
   </samp>
 </p>
 
+<br />
+<br />
+
+## Social
 <p align="center">
  <a href="https://mubashir.com" target="blank">
   <!--img src=["https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc))" alt="ali" />
