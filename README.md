@@ -22,9 +22,9 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hi! I am Mubashir Ali
-                <!--b><a target="_blank" href="https://mubashir.com">Mubashir Ali</a></b-->
+                <!--b><a target="_blank" href="https://mubashir.com">Mubashir Ali</a></b
         </samp>
-</h3>
+        </h3-->
 
 
 <p align="center"> 
@@ -80,8 +80,13 @@
 
 <br/>
 <br/>
-<br/>
+## Courses
 
+<p>
+<a href="https://www.coursera.org/user/b24cee8c4f2cb522673997c014e5d401" target=_blank">
+<img src="https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white" alt="mubashir">
+<br/>
+<br/>
 ## Contact me
 
 <p>
