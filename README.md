@@ -68,10 +68,8 @@
 </a>
 <a href="https://www.coursera.org/user/b24cee8c4f2cb522673997c014e5d401" alt="mubashir "/>
 <img src="https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white" alt="mubashir" />
-</a>
-<a href=""/>
-<img  src="https://img.shields.io/badge/Snapchat-%23FFFC00.svg?style=for-the-badge&logo=Snapchat&logoColor=white" alt="mubashir" />
 </p>
+
 <br />
 <br />
 
