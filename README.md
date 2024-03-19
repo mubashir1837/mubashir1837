@@ -76,10 +76,10 @@
 <p align="corner"
 <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
-✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
-❤️ &emsp; Love to writing code and learning new features<br/><br/>
-📧 &emsp; Reach me anytime: mubashirali1837@gmail.com<br/><br/>
-💬 &emsp; Ask me about anything [here](https://github.com/mubashir1837/mubashir1837/issues)
+✌️&emsp;&#8594; Enjoy to do programming and sharing knowledge <br/><br/>
+❤️&emsp;&#8594; Love to writing code and learning new features<br/><br/>
+📧&emsp;&#8594; Reach me anytime: mubashirali1837@gmail.com<br/><br/>
+💬&emsp;&#8594; Ask me about anything [here](https://github.com/mubashir1837)
 
 </p>
 <br />
