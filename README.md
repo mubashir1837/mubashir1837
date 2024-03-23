@@ -38,7 +38,6 @@
 </p>
 
 <br />
-<br />
 
 ## Social
 <p align="center">
