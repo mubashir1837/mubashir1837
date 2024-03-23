@@ -1,6 +1,7 @@
 <h2 align="center">
 
-![dfrdgiphy-ezgif com-crop](https://github.com/mubashir1837/mubashir1837/assets/163585695/9112ca16-b31c-43f8-bae3-d42dce16cf8b)
+![jk](https://github.com/mubashir1837/mubashir1837/assets/163585695/99bb6fda-ae68-4e9b-9329-e332bdd77d39)
+
 
 
   <!--
@@ -23,7 +24,7 @@
 
 <!-- Intro  -->
 <h3 align="center">
-        <samp>&gt; Hi! I am Mubashir Ali
+        <samp>&gt; Welcome! I am Mubashir Ali
                 <!--b><a target="_blank" href="https://mubashir.com">Mubashir Ali</a></b
         </samp>
         </h3-->
