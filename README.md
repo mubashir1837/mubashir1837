@@ -1,6 +1,8 @@
 <h2 align="center">
-  
-![giphy](https://github.com/mubashir1837/mubashir1837/assets/163585695/0bebae68-c672-4227-82ff-8250b0610ceb)
+
+  ![giphy-ezgif com-resize](https://github.com/mubashir1837/mubashir1837/assets/163585695/0fd4f69d-bf72-4474-8872-a1b06cab7e5b)
+
+
   <!--
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2 -->
