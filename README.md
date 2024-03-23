@@ -1,7 +1,7 @@
 <h2 align="center">
 
+![mmgiphy](https://github.com/mubashir1837/mubashir1837/assets/163585695/b535d082-6c44-4837-a513-cd058725df89)
 
-![ssssgiphy](https://github.com/mubashir1837/mubashir1837/assets/163585695/39471b6b-709c-45dd-86f5-f507582db256)
 
 
   <!--
