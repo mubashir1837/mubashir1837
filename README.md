@@ -1,6 +1,6 @@
 <h2 align="center">
 
-![gfwiphy](https://github.com/mubashir1837/mubashir1837/assets/163585695/1de484ae-a245-443a-802f-07d5ba3a0ea2)
+![mubashir1837](https://github.com/mubashir1837/mubashir1837/assets/163585695/996e47d5-dbb0-45ce-9158-d088d69b5c04)
 
 
 
