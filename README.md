@@ -1,6 +1,6 @@
 <h2 align="center">
 
-  ![giphy-ezgif com-resize](https://github.com/mubashir1837/mubashir1837/assets/163585695/0fd4f69d-bf72-4474-8872-a1b06cab7e5b)
+![giphy-ezgif com-resize](https://github.com/mubashir1837/mubashir1837/assets/163585695/0fd4f69d-bf72-4474-8872-a1b06cab7e5b)
 
 
   <!--
