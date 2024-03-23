@@ -1,6 +1,7 @@
 <h2 align="center">
 
-![jk-ezgtyif com-resize](https://github.com/mubashir1837/mubashir1837/assets/163585695/6e7c4c80-3e2c-4eda-a254-81733027a663)
+![gfwiphy](https://github.com/mubashir1837/mubashir1837/assets/163585695/1de484ae-a245-443a-802f-07d5ba3a0ea2)
+
 
 
 
