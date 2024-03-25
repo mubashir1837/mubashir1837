@@ -77,6 +77,9 @@
 </a>
 <a href ="https://portfolio-mubashir1837.my.canva.site/mubashir-1837" alt="mubashir"/>
 <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="mubashir" />
+</a>
+<a href="https://youtube.com/@Baltistani786?si=pYf6g8ESdmugHbAq" alt="mubashir">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt ="mubashir"/>
 </p>
 
 <br />
