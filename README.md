@@ -74,6 +74,9 @@
 </a>
 <a href="https://www.coursera.org/user/b24cee8c4f2cb522673997c014e5d401" alt="mubashir "/>
 <img src="https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white" alt="mubashir" />
+</a>
+<a href ="https://portfolio-mubashir1837.my.canva.site/mubashir-1837" alt="mubashir"/>
+<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="mubashir" />
 </p>
 
 <br />
