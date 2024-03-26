@@ -35,17 +35,13 @@
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=Mubashir-Ali"><!--「 Google  Me」--></a>
+    <a href="https://www.google.com/search?q="><h1>「 Google  Me」</h1></a>
     <br>
     [ I am a full stack web application developer from <b>Pakistan</b> ]
     <br>
     <br>
-  </samp>
 </p>
-
-<br />
-
-## Social
+<h1>Social</h1>
 <p align="center">
  <a href="https://mubashir.com" target="blank">
   <!--img src=["https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc))" alt="ali" />
