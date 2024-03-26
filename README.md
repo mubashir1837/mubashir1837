@@ -26,26 +26,24 @@
 [![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
 
 <!-- Intro  -->
-<h3 align="center">
-        <samp>&gt; Welcome! I am Mubashir Ali
-                <!--b><a target="_blank" href="https://mubashir.com">Mubashir Ali</a></b
+<h1 align="center">
+        <samp>&gt; Welcome! I am Mubashir Ali </samp>
+                <a target="_blank" href="https://mubashir1837.com"></a>
         </samp>
-        </h3-->
+        </h3-
 
 
 <p align="center"> 
+  
   <samp>
-    <a href="https://www.google.com/search?q="><h1>「 Google  Me」</h1></a>
-    <br>
+    <a href="https://www.google.com/search?q="><h1> Google  Me </h1></a>
+    <br />
     [ I am a full stack web application developer from <b>Pakistan</b> ]
-    <br>
-    <br>
+    <br />
+    <br />
 </p>
 <h1>Social</h1>
 <p align="center">
- <a href="https://mubashir.com" target="blank">
-  <!--img src=["https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc))" alt="ali" />
- </a-->
  <a href="https://www.linkedin.com/in/mubashir-ali1837/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="mubashir"/>
  </a>
