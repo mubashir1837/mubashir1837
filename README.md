@@ -1,6 +1,6 @@
 <h2 align="center">
 
-![mubashir1837](https://github.com/mubashir1837/mubashir1837/assets/163585695/996e47d5-dbb0-45ce-9158-d088d69b5c04)
+  ![mubashir1837](https://github.com/mubashir1837/mubashir1837/assets/163585695/996e47d5-dbb0-45ce-9158-d088d69b5c04)
 
 
 
@@ -37,8 +37,7 @@
   
   <samp>
     <a href="https://www.google.com/search?q="><h1> Google  Me </h1></a>
-    <br />
-    [ I am a full stack web application developer from <b>Pakistan</b> ]
+  [ I am a full stack web application developer from <b>Pakistan</b> ]
     <br />
     <br />
 </p>
