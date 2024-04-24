@@ -51,10 +51,10 @@
 <h1 align="center">Open Source</h1-->
 
 
-<!--CONFIG FILE-->
+<!--CONFIG FILE-
 <h1 align="center">Config Files</h1>
 
-[![Mubashir Readme](https://github-readme-stats.vercel.app/api/pin/?username=mubashir1837&repo=mubashir1837&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/mubashir1837)
+[![Mubashir Readme](https://github-readme-stats.vercel.app/api/pin/?username=mubashir1837&repo=mubashir1837&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/mubashir1837) -->
 <p align="center">
   <a href="https://github.com/mubashir1837?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
