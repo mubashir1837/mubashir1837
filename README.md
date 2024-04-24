@@ -9,12 +9,12 @@
        projects. Explore my repositories to discover my work in programming, data analysis, and web development.Let's innovate together!</h3>
 <br>
 <h1 align="center">🔗 Website</h1>
-.............................................................................................................................................................................................................................................................
-
-
-  ...................................................................................................................................[![portfolio3](https://github.com/mubashir1837/mubashir1837/assets/163585695/884bd743-bf10-4d4c-b8f5-c3b98cd3b26a)](https://mubashir-ale.vercel.app/)
-..............................................................................
-    
+  <div align ="center">
+<a href="https://mubashir-ale.vercel.app/">
+    <img src="https://github.com/mubashir1837/mubashir1837/assets/163585695/c76cab91-51c3-4f81-a80f-28f9dfff4a42"
+" alt="portfolio3">
+  </a>
+</div>
 <br>
 <!--SOCIAL ACCOUNTS-->
 <h1 align="center">Contact me on</h1>
@@ -41,11 +41,20 @@
 
 
 <h1 align="center">Config Files</h1>
+<div align="center">
+        <a href="https://github.com/mubashir1837/mubashir1837" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=mubashir1837&repo=mubashir1837&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" alt="Mubashir Readme">
+        </a>
+    </div>
+<!--CONTRIBUTIONS-->
 
-[![Mubashir Readme](https://github-readme-stats.vercel.app/api/pin/?username=mubashir1837&repo=mubashir1837&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/mubashir1837/mubashir1837)
+ <h1 align="center">Contributions</h1>
+<p align="center">
+  <a href="https://github.com/mubashir1837">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mubashir1837&theme=radical" alt="Mubashir's GitHub Contribution"/>
+  </a>
+</p>
 
-## Graph
-[![Mubashir's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mubashir1837)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
