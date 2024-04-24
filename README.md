@@ -44,12 +44,11 @@
 
 <!--CONFIG FILE-->
 <h1 align="center">Config Files</h1>
-<div align="center">
-    <a href="https://github.com/mubashir1837/" target="_blank">
-     <img src="https://github-readme-stats.vercel.app/api/pin/?
-       username=mubashir1837&repo=mubashir1837&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" alt="Mubashir Readme">
-        </a>
-    </div>
+<p align="center">
+  <a href="https://github.com/mubashir1837?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+</p>
+
+
 
 <!--CONTRIBUTIONS-->
 <h1 align="center">Contributions</h1>
@@ -62,8 +61,12 @@
  
  <!--LANGUAGES-->
 <h1 align="center">Languages</h1>
-  <a href="https://github.com/mubashir1837"><img alt="Mubashir's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=mubashir1837&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-   <a href="https://github.com/mubashir1837"><img alt="Mubashir Ali's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=mubashir1837&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a> 
+    <a href="https://github.com/mubashir1837"><img alt="Mubashir Ali's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=mubashir1837&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/alsiam"><img alt="Mubashir's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=mubashir1837&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
+
 
 
 
