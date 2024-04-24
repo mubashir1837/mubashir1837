@@ -4,6 +4,9 @@
 <h3 align="center">As a passionate full-stack web developer from Pakistan, I thrive on exploring new innovations and continuously learning in web development.</h3>
 <br>
 <!--ABOUT-->
+<p align="center">
+<img src="https://github.com/mubashir1837/mubashir1837/assets/163585695/59ea1675-7d5e-44e9-8d60-872bd6b2678d">
+</p>
 <h1 align="center">🚀About Me <h1>
   <h3 align="center">Welcome to my GitHub! I'm an undergraduate student and Bioinformatics enthusiast. With a passion for data analysis of molecules and web development, I'm dedicated to creating impactful 
        projects. Explore my repositories to discover my work in programming, data analysis, and web development.Let's innovate together!</h3>
