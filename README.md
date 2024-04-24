@@ -59,7 +59,7 @@
 <!--GithubStreaks-->
 <p align="center">
   <a href="https://github.com/mubashir1837">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=alsiam&theme=radical&border=7F3FBF&background=0D1117" alt="Mubashir's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mubashir1837&theme=radical&border=7F3FBF&background=0D1117" alt="Mubashir's GitHub streak"/>
   </a>
 </p>
 
