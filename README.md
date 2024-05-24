@@ -15,7 +15,7 @@
 <!--WEBSITE-->
 <h1 align="center">🔗 Website</h1>
   <div align ="center">
-<a href="https://mubashirali.vercel.app/">
+<a href="https://mubashir-a.vercel.app/" target="_blank">
     <img src="https://github.com/mubashir1837/mubashir1837/assets/163585695/c76cab91-51c3-4f81-a80f-28f9dfff4a42" alt="portfolio3">
   </a>
 </div>
