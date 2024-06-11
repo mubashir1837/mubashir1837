@@ -3,7 +3,7 @@
 </p>
 
 
-<h3 align="center">As a passionate full-stack web developer from Pakistan, I thrive on exploring new innovations and continuously learning in web development.</h3>
+<h3 align="center">I'm a full stack web application developer and Machine learner.</h3>
 <br>
 <!--ABOUT-->
 <p align="center">
