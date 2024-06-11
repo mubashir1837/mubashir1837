@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Mubashir Ali </h1>
+<p align="center">
+  <img src="https://github.com/mubashir1837/mubashir1837/assets/163585695/bd5df998-6bed-429b-8086-920af6b84887" alt="intro">
+</p>
 
 
 <h3 align="center">As a passionate full-stack web developer from Pakistan, I thrive on exploring new innovations and continuously learning in web development.</h3>
