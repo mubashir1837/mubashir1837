@@ -6,7 +6,8 @@
 <!--ABOUT-->
 <p align="center">
 
-![about](https://github.com/mubashir1837/mubashir1837/assets/163585695/6576b2a6-7cdd-4c3b-b9f1-36b764f1b73e)
+![abht](https://github.com/mubashir1837/mubashir1837/assets/163585695/12a9dd57-26b7-41d3-afc5-8599ce7c1853)
+
 
 
 
