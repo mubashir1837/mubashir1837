@@ -5,9 +5,8 @@
 
 <!--ABOUT-->
 <p align="center">
-
-![abht](https://github.com/mubashir1837/mubashir1837/assets/163585695/12a9dd57-26b7-41d3-afc5-8599ce7c1853)
-
+<img src="https://github.com/mubashir1837/mubashir1837/assets/163585695/4c9e8a2a-fa8f-4c88-bb46-f82777204deb" alt="tg">
+</p>
 
 
 
