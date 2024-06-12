@@ -3,16 +3,18 @@
 </p>
 
 
-<h3 align="center">I'm a full stack web application developer and Machine learner.</h3>
-<br>
 <!--ABOUT-->
 <p align="center">
-<img src="https://github.com/mubashir1837/mubashir1837/assets/163585695/59ea1675-7d5e-44e9-8d60-872bd6b2678d">
-</p>
+
+![about](https://github.com/mubashir1837/mubashir1837/assets/163585695/54b2a69c-9be5-4ca9-91e3-77ffb52a21f3)
+
+
+
+<!--/p>
 <h1 align="center">🚀About Me <h1>
   <h3 align="center">Welcome to my GitHub! I'm an undergraduate student and Bioinformatics enthusiast. With a passion for data analysis of molecules and web development, I'm dedicated to creating impactful 
        projects. Explore my repositories to discover my work in programming, data analysis, and web development.Let's innovate together!</h3>
-<br>
+<br-->
   
 <!--WEBSITE-->
 <h1 align="center">🔗 Website</h1>
