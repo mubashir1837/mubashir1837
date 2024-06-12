@@ -5,7 +5,7 @@
 
 <!--ABOUT-->
 <p align="center">
-  <a href="https://mubashir-a.vercel.app/" target="_blank">
+  <a href="https://mubashir-a.vercel.app/about.html" target="_blank">
 <img src="https://github.com/mubashir1837/mubashir1837/assets/163585695/4c9e8a2a-fa8f-4c88-bb46-f82777204deb" alt="tg">
 </a>
 </p>
