@@ -8,7 +8,10 @@
 <!--ABOUT-->
 <p align="center">
   <a href="https://mubashir-a.vercel.app/about.html" target="_blank">
-     <img src="https://github.com/mubashir1837/mubashir1837/assets/163585695/b6ceb84d-78db-4e85-9a2b-c675393cf1ca" alt="about me image" >
+    
+![abouttt](https://github.com/mubashir1837/mubashir1837/assets/163585695/5f4ecca6-2de1-4f31-af94-387c96c5b669)
+
+      
 </a>
 </p>
 
