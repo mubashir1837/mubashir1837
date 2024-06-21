@@ -8,12 +8,15 @@
 <!--ABOUT-->
 <p align="center">
   <a href="https://mubashir-a.vercel.app/about.html" target="_blank">
-    
-![abouttt](https://github.com/mubashir1837/mubashir1837/assets/163585695/5f4ecca6-2de1-4f31-af94-387c96c5b669)
-
-      
-</a>
+    <img src="https://github.com/mubashir1837/mubashir1837/assets/163585695/cb6a0720-7ac7-4306-856f-5c48827155d0" alt="abouttt">
+  </a>
 </p>
+
+Hello! I'm Mubashir Ali, a passionate Full Stack Web Developer and an enthusiastic Bioinformatics student from Pakistan. My journey intertwines the worlds of 
+technology and biology, allowing me to create innovative solutions and contribute to groundbreaking research.
+
+### 🔹 Web Development
+I have a deep love for coding and building dynamic web applications. My skill set spans both front-end and back-end development, enabling me to craft seamless, user-friendly, and efficient web experiences. From designing responsive interfaces with HTML, CSS, and JavaScript frameworks like React and Bootstrap, to developing robust server-side applications with Node.js and databases, I strive to bring creative ideas to life through code.
 
 
 
