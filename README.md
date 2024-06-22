@@ -12,11 +12,11 @@
   </a>
 </p>
 
-Hello! I'm Mubashir Ali, a passionate Full Stack Web Developer and an enthusiastic Bioinformatics student from Pakistan. My journey intertwines the worlds of 
-technology and biology, allowing me to create innovative solutions and contribute to groundbreaking research.
+###  Hello! I'm Mubashir Ali, a passionate Full Stack Web Developer and an enthusiastic Bioinformatics student from Pakistan. My journey intertwines the worlds of 
+### technology and biology, allowing me to create innovative solutions and contribute to groundbreaking research.
 
-### 🔹 Web Development
-I have a deep love for coding and building dynamic web applications. My skill set spans both front-end and back-end development, enabling me to craft seamless, user-friendly, and efficient web experiences. From designing responsive interfaces with HTML, CSS, and JavaScript frameworks like React and Bootstrap, to developing robust server-side applications with Node.js and databases, I strive to bring creative ideas to life through code.
+# 🔹 Web Development
+### I have a deep love for coding and building dynamic web applications. My skill set spans both front-end and back-end development, enabling me to craft seamless, user-friendly, and efficient web experiences. From designing responsive interfaces with HTML, CSS, and JavaScript frameworks like React and Bootstrap, to developing robust server-side applications with Node.js and databases, I strive to bring creative ideas to life through code.
 
 
 
