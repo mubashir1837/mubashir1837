@@ -42,7 +42,7 @@ I have a deep love for coding and building dynamic web applications. My skill se
 <p align="center">
 <a href="https://www.youtube.com/@CodeWithBismiAllah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="CodeWithBismiAllah" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mubashirali8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mubashirali8" height="30" width="40" /></a>
-<a href="https://facebook.com/profile.php?id=61556478748590" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mubashiraliyaar" height="30" width="40" /></a>
+<a href="https://www.facebook.com/codewithbismilah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mubashiraliyaar" height="30" width="40" /></a>
 <a href="https://instagram.com/mubashir_aliyaar_37" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mubashir_aliyaar37" height="30" width="40" /></a>
 </p>
 
