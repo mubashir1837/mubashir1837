@@ -45,11 +45,23 @@ I have a deep love for coding and building dynamic web applications. My skill se
 <a href="https://facebook.com/profile.php?id=61556478748590" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mubashiraliyaar" height="30" width="40" /></a>
 <a href="https://instagram.com/mubashir_aliyaar_37" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mubashir_aliyaar37" height="30" width="40" /></a>
 </p>
+
+<p align="center">
+    <a href="https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7238883223760470017" target="_blank">
+        <img src="https://img.shields.io/badge/Subscribe%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+    </a>
+</p>
+
 <p align="center">
     <a href="https://www.fiverr.com/mubashir183" target="_blank">
         <img src="https://img.shields.io/badge/Fiverr-mubashir183-brightgreen?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr Badge">
     </a>
 </p>
+
+
+
+
+
 
 
 <!--SKILLS-->
