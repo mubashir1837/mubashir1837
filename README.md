@@ -68,7 +68,7 @@ A fully functional shopping website that includes user authentication, product s
 ### 🍽️ [Food Web](https://foodweb-five.vercel.app)
 An interactive food web platform showcasing various species and their relationships in an ecosystem. Developed using Next.js and a custom backend for dynamic content.
 
-### 🚀 [Mubashir Portfolio Hub](https://mubashir-portfolio-hub.vercel.app)
+### 🚀 [Mubashir Portfolio Hub](https://mubashir-a.vercel.app)
 A comprehensive portfolio showcasing various projects, each demonstrating different technologies and design styles. Created with Next.js and Tailwind CSS for a responsive design.
 
 ### 🖥️ [Next.js Portfolio](https://nextjs-portfolio1-chi.vercel.app)
