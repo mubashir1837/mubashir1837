@@ -40,7 +40,7 @@ I have a deep love for coding and building dynamic web applications. My skill se
 <!--SOCIAL ACCOUNTS-->
 <h1 align="center">Accounts</h1>
 <p align="center">
-<a href="https://www.youtube.com/@CodeWithBismiAllah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="CodeWithBismiAllah" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@CodeWithBismillah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="CodeWithBismiAllah" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/mubashirali3/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mubashirali8" height="30" width="40" /></a>
 <a href="https://www.facebook.com/codewithbismilah" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mubashiraliyaar" height="30" width="40" /></a>
 <a href="https://www.instagram.com/code_with_bismillah/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mubashir_aliyaar37" height="30" width="40" /></a>
@@ -57,6 +57,60 @@ I have a deep love for coding and building dynamic web applications. My skill se
         <img src="https://img.shields.io/badge/Fiverr-mubashir183-brightgreen?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr Badge">
     </a>
 </p>
+
+## 🌐 Portfolio Projects
+
+Explore my portfolio projects hosted on various platforms. Each project showcases different skills, technologies, and design aesthetics. Click on any link to view the live demo:
+
+### 📦 [Shopping Website](https://shoppings.vercel.app)
+A fully functional shopping website that includes user authentication, product search, and shopping cart functionality. Built with React and integrated with a mock API for product data.
+
+### 🍽️ [Food Web](https://foodweb-five.vercel.app)
+An interactive food web platform showcasing various species and their relationships in an ecosystem. Developed using Next.js and a custom backend for dynamic content.
+
+### 🚀 [Mubashir Portfolio Hub](https://mubashir-portfolio-hub.vercel.app)
+A comprehensive portfolio showcasing various projects, each demonstrating different technologies and design styles. Created with Next.js and Tailwind CSS for a responsive design.
+
+### 🖥️ [Next.js Portfolio](https://nextjs-portfolio1-chi.vercel.app)
+A personal portfolio built using Next.js, showcasing multiple projects, blogs, and technical skills. It’s responsive and optimized for SEO.
+
+### 💡 [Code with Bismillah](https://codewithbismillah.vercel.app)
+An educational website where I share coding tutorials and tips for beginners. It’s designed with simplicity in mind, focusing on HTML, CSS, and JavaScript.
+
+### 📖 [Story of Karbala](https://story-of-karbala.vercel.app)
+A platform dedicated to telling the story of Karbala with an interactive timeline and detailed events. Built with React and styled components for a smooth user experience.
+
+### 🤣 [Joke Generator](https://joke--generator.vercel.app)
+A simple web app that generates random jokes from an API. It is a fun project built using React and styled with CSS.
+
+### 🎹 [Piano Org](https://piano-org.vercel.app)
+An interactive piano keyboard application built using JavaScript. Users can play notes by clicking the keys or using the keyboard.
+
+### 🏆 [Best Portfolio](https://bestportfolio.vercel.app)
+A personal portfolio designed to showcase projects, achievements, and skills in web development. It features dynamic content and is optimized for all screen sizes.
+
+### 🌲 [Link Tree](https://link--tree.vercel.app)
+A personalized "link tree" for sharing multiple links. Users can easily customize it to include various social media and portfolio links.
+
+### 📚 [Allama Iqbal Science Academy](https://allama-iqbal-science-acedemy.vercel.app)
+An educational platform for the Allama Iqbal Science Academy, showcasing their services, courses, and events. Developed using React for a smooth user experience.
+
+- [waqas-khattak.vercel.app](https://waqas-khattak.vercel.app)
+- [qamar-portfolio.vercel.app](https://qamar-portfolio.vercel.app)
+- [mubashir---ali.vercel.app](https://mubashir---ali.vercel.app)
+- [mubashir-a.vercel.app](https://mubashir-a.vercel.app)
+- [mubashir-ali.netlify.app](https://mubashir-ali.netlify.app)
+- [mubashir-ali.vercel.app](https://mubashir-ali.vercel.app)
+- [mubashirali.vercel.app](https://mubashirali.vercel.app)
+- [awesome-2portfolio.vercel.app](https://awesome-2portfolio.vercel.app)
+- [mubashir-ale.vercel.app](https://mubashir-ale.vercel.app)
+- [mubi-portfolio.vercel.app](https://mubi-portfolio.vercel.app)
+- [solid-memory-alpha.vercel.app](https://solid-memory-alpha.vercel.app)
+- [portfolio-you.vercel.app](https://portfolio-you.vercel.app)
+- [awesome-portfolio2024.vercel.app](https://awesome-portfolio2024.vercel.app)
+- [mub4shir-portfolio.netlify.app](https://mub4shir-portfolio.netlify.app)
+
+Feel free to explore and share your feedback!
 
 
 
