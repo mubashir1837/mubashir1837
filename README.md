@@ -95,6 +95,7 @@ A personalized "link tree" for sharing multiple links. Users can easily customiz
 ### 📚 [Allama Iqbal Science Academy](https://allama-iqbal-science-acedemy.vercel.app)
 An educational platform for the Allama Iqbal Science Academy, showcasing their services, courses, and events. Developed using React for a smooth user experience.
 
+- [zainab-abbas.vercel.app](https://zainab-abbas.vercel.app)
 - [waqas-khattak.vercel.app](https://waqas-khattak.vercel.app)
 - [qamar-portfolio.vercel.app](https://qamar-portfolio.vercel.app)
 - [mubashir---ali.vercel.app](https://mubashir---ali.vercel.app)
