@@ -62,8 +62,11 @@ I have a deep love for coding and building dynamic web applications. My skill se
 
 Explore my portfolio projects hosted on various platforms. Each project showcases different skills, technologies, and design aesthetics. Click on any link to view the live demo:
 
+### ⛈️ [Weather App](https://pk-weather.vercel.app/)
+Responsive Weather app
+
 ### 📦 [Shopping Website](https://shoppings.vercel.app)
-A fully functional shopping website that includes user authentication, product search, and shopping cart functionality. Built with React and integrated with a mock API for product data.
+Responsive online shopping website.
 
 ### 🍽️ [Food Web](https://foodweb-five.vercel.app)
 An interactive food web platform showcasing various species and their relationships in an ecosystem. Developed using Next.js and a custom backend for dynamic content.
