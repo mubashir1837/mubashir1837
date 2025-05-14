@@ -70,7 +70,7 @@ Responsive Weather app
 ### 📦 [Shopping Website](https://shoppings.vercel.app)
 Responsive online shopping website.
 
-### 🍽️ [Food Web](https://taza-food.vercel.app/)
+### 🍽️ [Food Web](https://taza-foods-org.vercel.app/)
 An interactive food web platform showcasing various species and their relationships in an ecosystem. Developed using Next.js and a custom backend for dynamic content.
 
 ### 🚀 [Mubashir Portfolio Hub](https://mubashir-a.vercel.app)
