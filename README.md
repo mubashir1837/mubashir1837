@@ -61,7 +61,16 @@ I have a deep love for coding and building dynamic web applications. My skill se
 ## 🌐 Portfolio Projects
 
 Explore my portfolio projects hosted on various platforms. Each project showcases different skills, technologies, and design aesthetics. Click on any link to view the live demo:
-### 🫀 [heart](https://heart-disease-prediction-ml-apgbeff8fsfda2ey.centralindia-01.azurewebsites.net/)
+###  [Bio-Data-Hub VSCE](https://marketplace.visualstudio.com/items?itemName=Mubashir-Ali.bio-data-hub&wt.mc_id=studentamb_468108)
+Bioinformatics CSV data exploration extension for VS Code
+
+###  [Chroma Library](https://marketplace.visualstudio.com/items?itemName=CodewithBismillah.chroma-library)
+Advanced theming extension with customizable neon-futuristic color palettes, gradient backgrounds, and specialized themes for developers
+
+###  [Axion Themest](https://marketplace.visualstudio.com/items?itemName=CodewithBismillah.axion-themes)
+Advanced theming extension with customizable neon-futuristic color palettes
+
+### 🫀 [heart](https://heart-disease-prediction-ml-apgbeff8fsfda2ey.centralindia-01.azurewebsites.net)
 Heart disease classifier ML model
 
 ### ⛈️ [Weather App](https://pk-weather.vercel.app/)
