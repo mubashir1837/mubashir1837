@@ -64,10 +64,10 @@ Explore my portfolio projects hosted on various platforms. Each project showcase
 ###  [Bio-Data-Hub VSCE](https://marketplace.visualstudio.com/items?itemName=Mubashir-Ali.bio-data-hub&wt.mc_id=studentamb_468108)
 Bioinformatics CSV data exploration extension for VS Code
 
-###  [Chroma Library](https://marketplace.visualstudio.com/items?itemName=CodewithBismillah.chroma-library)
+###  [Chroma Library](https://marketplace.visualstudio.com/items?itemName=CodewithBismillah.chroma-library&wt.mc_id=studentamb_468108)
 Advanced theming extension with customizable neon-futuristic color palettes, gradient backgrounds, and specialized themes for developers
 
-###  [Axion Themest](https://marketplace.visualstudio.com/items?itemName=CodewithBismillah.axion-themes)
+###  [Axion Themest](https://marketplace.visualstudio.com/items?itemName=CodewithBismillah.axion-themes&wt.mc_id=studentamb_468108)
 Advanced theming extension with customizable neon-futuristic color palettes
 
 ### 🫀 [heart](https://heart-disease-prediction-ml-apgbeff8fsfda2ey.centralindia-01.azurewebsites.net)
@@ -76,8 +76,6 @@ Heart disease classifier ML model
 ### ⛈️ [Weather App](https://pk-weather.vercel.app/)
 Responsive Weather app
 
-### 📦 [Shopping Website](https://shoppings.vercel.app)
-Responsive online shopping website.
 
 ### 🍽️ [Food Web](https://taza-foods-org.vercel.app/)
 An interactive food web platform showcasing various species and their relationships in an ecosystem. Developed using Next.js and a custom backend for dynamic content.
