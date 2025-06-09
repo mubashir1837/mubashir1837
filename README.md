@@ -1,9 +1,14 @@
-<p align="center">
+<!--<p align="center">
     <a href="https://mubashir-a.vercel.app/contact.html" target="_blank">
         <img src="https://github.com/mubashir1837/mubashir1837/assets/163585695/e867cbc3-d23c-4125-9b71-82541143300c" alt="converter">
     </a>
-</p>
+</p> -->
 
+[![Website](https://img.shields.io/badge/Portfolio-mubashirali.vercel.app-blue?logo=vercel)](https://mubashirali.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mubashirali3-blue?logo=linkedin)](https://linkedin.com/in/mubashirali3/)
+[![YouTube](https://img.shields.io/badge/YouTube-CodeWithBismillah-red?logo=youtube)](https://www.youtube.com/@CodeWithBismillah)
+[![Upwork](https://img.shields.io/badge/Upwork-Freelancer-brightgreen?logo=upwork)](https://www.upwork.com/freelancers/~0155a27ec55b615628)
+[![Fiverr](https://img.shields.io/badge/Fiverr-mubashir183-green?logo=fiverr)](https://www.fiverr.com/sellers/mubashir183)
 
 <!--ABOUT-->
 <p align="center">
@@ -13,8 +18,7 @@
 </p>
 
 <p align="center">
- Hello! I'm Mubashir Ali, a passionate Full Stack Web Developer and an enthusiastic Bioinformatics student from Pakistan. My journey intertwines the worlds of 
- technology and biology, allowing me to create innovative solutions and contribute to groundbreaking research.
+ Hello! I'm Mubashir Ali, a passionate Web Developer and  student from Pakistan. 
 </p>
 
 <p align="center">
@@ -31,7 +35,7 @@ I have a deep love for coding and building dynamic web applications. My skill se
 <!--WEBSITE-->
 <h1 align="center">🔗 Website</h1>
   <div align ="center">
-<a href="https://mubashir-a.vercel.app/" target="_blank">
+<a href="https://mubashirali.vercel.app/" target="_blank">
     <img src="https://github.com/mubashir1837/mubashir1837/assets/163585695/c76cab91-51c3-4f81-a80f-28f9dfff4a42" alt="portfolio3">
   </a>
 </div>
