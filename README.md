@@ -4,11 +4,7 @@
     </a>
 </p> -->
 
-[![Website](https://img.shields.io/badge/Portfolio-mubashirali.vercel.app-blue?logo=vercel)](https://mubashirali.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mubashirali3-blue?logo=linkedin)](https://linkedin.com/in/mubashirali3/)
-[![YouTube](https://img.shields.io/badge/YouTube-CodeWithBismillah-red?logo=youtube)](https://www.youtube.com/@CodeWithBismillah)
-[![Upwork](https://img.shields.io/badge/Upwork-Freelancer-brightgreen?logo=upwork)](https://www.upwork.com/freelancers/~0155a27ec55b615628)
-[![Fiverr](https://img.shields.io/badge/Fiverr-mubashir183-green?logo=fiverr)](https://www.fiverr.com/sellers/mubashir183)
+
 
 <!--ABOUT-->
 <p align="center">
@@ -21,9 +17,46 @@
  Hello! I'm Mubashir Ali, a passionate Web Developer and  student from Pakistan. 
 </p>
 
-<p align="center">
-I have a deep love for coding and building dynamic web applications. My skill set spans both front-end and back-end development, enabling me to craft seamless, user-friendly, and efficient web experiences. From designing responsive interfaces with HTML, CSS, and JavaScript frameworks like React and Bootstrap, to developing robust server-side applications with Node.js and databases, I strive to bring creative ideas to life through code.
-</p>
+
+[![Upwork](https://img.shields.io/badge/Upwork-Top%20Rated-blue?logo=upwork)](https://www.upwork.com/freelancers/~0155a27ec55b615628)
+[![Upwork Agency](https://img.shields.io/badge/Upwork‑Agency-191828829-brightgreen?logo=upwork)](https://www.upwork.com/agencies/1918288291912185024/)
+[![WhatsApp Channel](https://img.shields.io/badge/WhatsApp‑Channel-Join%20Us-green?logo=whatsapp)](https://whatsapp.com/channel/0029Vag7XYc6LwHkv1yfVo3A)
+[![GitHub](https://img.shields.io/badge/GitHub-mubashir1837-white?logo=github)](https://github.com/mubashir1837)
+[![Portfolio](https://img.shields.io/badge/mubashirali.vercel.app-blue?logo=vercel)](https://mubashirali.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mubashirali3-blue?logo=linkedin)](https://linkedin.com/in/mubashirali3/)
+[![Microsoft Learn](https://img.shields.io/badge/Microsoft Learn-mubashir1837-blueviolet?logo=microsoft)](https://learn.microsoft.com/users/mubashir1837/?wt.mc_id=studentamb_468108)
+[![g.dev](https://img.shields.io/badge/g.dev-mubashir1837-lightgrey?logo=google)](https://g.dev/mubashir1837)
+[![Credly](https://img.shields.io/badge/Credly-mubashir1837-blue?logo=credly)](https://www.credly.com/users/mubashir1837)
+[![YouTube](https://img.shields.io/badge/YouTube-CodeWithBismillah-red?logo=youtube)](https://www.youtube.com/@CodeWithBismillah)
+[![CodeWithBismillah](https://img.shields.io/badge/Website-codewithbismillah.online-orange?logo=googlechrome)](https://www.codewithbismillah.online/)
+[![CWB‑LinkedIn](https://img.shields.io/badge/LinkedIn‑Company‑CWB-blue?logo=linkedin)](https://www.linkedin.com/company/code-with-bismiallah/)
+[![NPM‑bismillahcss](https://img.shields.io/badge/NPM‑bismillahcss-red?logo=npm)](https://www.npmjs.com/package/bismillahcss)
+[![NPM‑profile](https://img.shields.io/badge/NPM‑mubashir1837-red?logo=npm)](https://www.npmjs.com/~mubashir1837)
+[![HackerRank](https://img.shields.io/badge/HackerRank-mubashir1837-green?logo=hackerrank)](https://www.hackerrank.com/profile/mubashir1837)
+[![LeetCode](https://img.shields.io/badge/LeetCode-mubashir1837-yellow?logo=leetcode)](https://leetcode.com/u/mubashir1837/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-mubashir1183-blue?logo=kaggle)](https://www.kaggle.com/mubashir1183)
+[![DataCamp](https://img.shields.io/badge/DataCamp-mubashir1837-lightblue?logo=datacamp)](https://www.datacamp.com/portfolio/mubashir1837)
+[![StackOverflow](https://img.shields.io/badge/StackOverflow-Mubashir%20Ali-orange?logo=stackoverflow)](https://stackoverflow.com/users/26145758/mubashir-ali)
+[![Linktree](https://img.shields.io/badge/Linktree-mubashir1837-lightgreen?logo=linktree)](https://linktr.ee/mubashir1837)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0006--0222--7585-lightgreen?logo=orcid)](https://orcid.org/0009-0006-0222-7585)
+[![VSCode‑Bio‑Data‑Hub](https://img.shields.io/badge/VSCode‑Extension‑Bio‑Data‑Hub-007ACC?logo=visualstudiocode)](https://marketplace.visualstudio.com/items?itemName=Mubashir-Ali.bio-data-hub)
+[![Coursera](https://img.shields.io/badge/Coursera-mubashir1837-red?logo=coursera)](https://www.coursera.org/learner/mubashir1837)
+[![Twitter (X)](https://img.shields.io/badge/Twitter‑@mubashir1837-blue?logo=twitter)](https://x.com/mubashir1837)
+[![Twitter‑CWB](https://img.shields.io/badge/Twitter‑@CWB_Online-blue?logo=twitter)](https://x.com/CWB_Online)
+[![Sponsor](https://img.shields.io/badge/Sponsor‑me-on%20GitHub-purple?logo=github)](https://github.com/sponsors/mubashir1837)
+[![Open Collective: You](https://img.shields.io/badge/OpenCollective-mubashir1837-orange?logo=opencollective)](https://opencollective.com/mubashir1837)
+[![Open Collective: BismillahCSS](https://img.shields.io/badge/OpenCollective-BismillahCSS-orange?logo=opencollective)](https://opencollective.com/bismillahcss)
+[![Pinterest](https://img.shields.io/badge/Pinterest-mubashir1837-red?logo=pinterest)](https://ar.pinterest.com/mubashir1837)
+[![Quora](https://img.shields.io/badge/Quora-Mubashir%20Ali-red?logo=quora)](https://www.quora.com/profile/Mubashir-Ali-762)
+[![Devpost](https://img.shields.io/badge/Devpost-mubashir1837-blue?logo=devpost)](https://devpost.com/mubashir1837)
+[![Facebook](https://img.shields.io/badge/Facebook‑Page‑CodeWithBismi-blue?logo=facebook)](https://www.facebook.com/codewithbismi)
+[![TikTok](https://img.shields.io/badge/TikTok-@codewithbismillah-lightgrey?logo=tiktok)](https://www.tiktok.com/@codewithbismillah)
+[![Google Scholar](https://img.shields.io/badge/Scholar-mubashir1837-blue?logo=google)](https://scholar.google.com/citations?user=cSRYdWAAAAAJ)
+[![BioRxiv](https://img.shields.io/badge/biorxiv-GeneFix‑AI-brightgreen?logo=biorxiv)](https://www.biorxiv.org/content/10.1101/2025.05.04.652132v1)
+[![Sciety](https://img.shields.io/badge/Sciety-GeneFix‑AI-brightgreen?logo=researchgate)](https://sciety.org/articles/activity/10.1101/2025.05.04.652132)
+[![Patreon](https://img.shields.io/badge/Patreon-mubashir1837-orange?logo=patreon)](https://www.patreon.com/c/mubashir1837)
+
+
 
 
 <!--/p>
