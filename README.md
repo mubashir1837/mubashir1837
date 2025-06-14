@@ -21,7 +21,7 @@
 </p>
 
 
-
+[![Microsoft Verified Badge](https://img.shields.io/badge/Verified%20by-Microsoft%20Entra-blue)](https://verifiedid.did.msidentity.com/v1.0/tenants/675f820f-66d9-48ce-8fac-2c548601cd9d/verifiableCredentials/contracts/7bd00055-fce8-bdfa-8514-bf977e099ca3/manifest)
 [![Upwork](https://img.shields.io/badge/Upwork-Top%20Rated-blue?logo=upwork)](https://www.upwork.com/freelancers/~0155a27ec55b615628)
 [![Upwork Agency](https://img.shields.io/badge/Upwork‑Agency-191828829-brightgreen?logo=upwork)](https://www.upwork.com/agencies/1918288291912185024/)
 [![WhatsApp Channel](https://img.shields.io/badge/WhatsApp‑Channel-Join%20Us-green?logo=whatsapp)](https://whatsapp.com/channel/0029Vag7XYc6LwHkv1yfVo3A)
