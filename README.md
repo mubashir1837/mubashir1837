@@ -157,24 +157,7 @@ A personal portfolio designed to showcase projects, achievements, and skills in 
 ### 🌲 [Link Tree](https://link--tree.vercel.app)
 A personalized "link tree" for sharing multiple links. Users can easily customize it to include various social media and portfolio links.
 
-### 📚 [Allama Iqbal Science Academy](https://allama-iqbal-science-acedemy.vercel.app)
-An educational platform for the Allama Iqbal Science Academy, showcasing their services, courses, and events. Developed using React for a smooth user experience.
 
-- [zainab-abbas.netlify.app](https://zainab-abbas.netlify.app)
-- [waqas-khattak.vercel.app](https://waqas-khattak.vercel.app)
-- [qamar-portfolio.vercel.app](https://qamar-portfolio.vercel.app)
-- [mubashir---ali.vercel.app](https://mubashir---ali.vercel.app)
-- [mubashir-a.vercel.app](https://mubashir-a.vercel.app)
-- [mubashir-ali.netlify.app](https://mubashir-ali.netlify.app)
-- [mubashir-ali.vercel.app](https://mubashir-ali.vercel.app)
-- [mubashirali.vercel.app](https://mubashirali.vercel.app)
-- [awesome-2portfolio.vercel.app](https://awesome-2portfolio.vercel.app)
-- [mubashir-ale.vercel.app](https://mubashir-ale.vercel.app)
-- [mubi-portfolio.vercel.app](https://mubi-portfolio.vercel.app)
-- [solid-memory-alpha.vercel.app](https://solid-memory-alpha.vercel.app)
-- [portfolio-you.vercel.app](https://portfolio-you.vercel.app)
-- [awesome-portfolio2024.vercel.app](https://awesome-portfolio2024.vercel.app)
-- [mub4shir-portfolio.netlify.app](https://mub4shir-portfolio.netlify.app)
 
 Feel free to explore and share your feedback!
 
