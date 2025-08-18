@@ -23,6 +23,9 @@
   </a>
 </p>
 
+
+<h3>Founder @ Code with Bismillah | Aspiring Bioinformatics & Data Science Professional | Bridging Biology & Data Researcher | Genomics, Machine Learning, AI | Python, R, Bioinformatics Tools
+</h3>
 <p align="center">I’m a Bioinformatics and data science enthusiast passionate about transforming complex biological data into actionable insights. My work focuses on genomics, transcriptomics, and machine learning applications in life sciences, with a strong interest in bridging biology and AI to enable data-driven discoveries. I have worked on multiple projects, including GeneFix AI, an AI-powered platform for predictive genomics and mutation analysis; GenomeHouse, an integrated Python framework for genome data preprocessing, sequence alignment, and visualization; and Bio Data Hub, a centralized platform for storing, analyzing, and sharing omics datasets. My technical expertise includes Python, R, Biopython, Pandas, NumPy, Seaborn, Scikit-learn, TensorFlow, BLAST, NGS data analysis, and Git. I am particularly interested in cancer genomics, biomarker discovery, precision medicine, and computational biology.
 
 "Mubashir Ali making history in Bioinformatics and Data Science"</p>
