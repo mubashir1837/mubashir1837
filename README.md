@@ -61,7 +61,7 @@
 [![Pinterest](https://img.shields.io/badge/Pinterest-mubashir1837-red?logo=pinterest)](https://ar.pinterest.com/mubashir1837)
 [![Quora](https://img.shields.io/badge/Quora-Mubashir%20Ali-red?logo=quora)](https://www.quora.com/profile/Mubashir-Ali-762)
 [![Devpost](https://img.shields.io/badge/Devpost-mubashir1837-blue?logo=devpost)](https://devpost.com/mubashir1837)
-[![Facebook](https://img.shields.io/badge/Facebook‑Page‑CodeWithBismi-blue?logo=facebook)](https://www.facebook.com/codewithbismi)
+[![Facebook](https://img.shields.io/badge/Facebook‑Page‑CodeWithBismi-blue?logo=facebook)](https://www.facebook.com/codewithbismillah.online)
 [![TikTok](https://img.shields.io/badge/TikTok-@codewithbismillah-lightgrey?logo=tiktok)](https://www.tiktok.com/@codewithbismillah)
 [![Google Scholar](https://img.shields.io/badge/Scholar-mubashir1837-blue?logo=google)](https://scholar.google.com/citations?user=cSRYdWAAAAAJ)
 [![BioRxiv](https://img.shields.io/badge/biorxiv-GeneFix‑AI-brightgreen?logo=biorxiv)](https://www.biorxiv.org/content/10.1101/2025.05.04.652132v1)
