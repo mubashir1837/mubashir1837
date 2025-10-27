@@ -19,7 +19,7 @@
 
 <p align="center">
   <a href="https://www.codewithbismillah.online">
-    <img src="https://img.shields.io/badge/Hello!%20I'm-Mubashir%20Ali%20%F0%9F%87%B5%F0%9F%87%B0-blueviolet?style=for-the-badge&logo=developer-mode&logoColor=white&labelColor=black" alt="Hello! I'm Mubashir Ali 🇵🇰"/>
+    <img src="https://img.shields.io/badge/Hello!%20I'm-Mubashir%20Ali%20%F0%9F%87%B5%F0%9F%87%B0-blueviolet?style=for-the-badge&logo=developer-mode&logoColor=white&labelColor=black" alt="Hello! I'm Mubashir Ali"/>
   </a>
 </p>
 
