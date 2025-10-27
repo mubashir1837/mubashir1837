@@ -12,14 +12,14 @@
 <!--ABOUT-->
 <p align="center">
   <a href="https://mubashir-a.vercel.app/about.html" target="_blank">
-    <img src="https://github.com/mubashir1837/mubashir1837/assets/163585695/cb6a0720-7ac7-4306-856f-5c48827155d0" alt="abouttt">
+    <img src="https://github.com/mubashir1837/mubashir1837/assets/163585695/cb6a0720-7ac7-4306-856f-5c48827155d0" alt="Mubashir Ali is a Pakistani bioinformatician, data science researcher, and founder of Code with Bismillah">
   </a>
 </p>
 
 
 <p align="center">
   <a href="https://www.codewithbismillah.online">
-    <img src="https://img.shields.io/badge/Hello!%20I'm-Mubashir%20Ali%20%F0%9F%87%B5%F0%9F%87%B0-blueviolet?style=for-the-badge&logo=developer-mode&logoColor=white&labelColor=black" alt="Hello! I'm Mubashir Ali"/>
+    <img src="https://img.shields.io/badge/Hello!%20I'm-Mubashir%20Ali%20%F0%9F%87%B5%F0%9F%87%B0-blueviolet?style=for-the-badge&logo=developer-mode&logoColor=white&labelColor=black" alt="Mubashir Ali is a Pakistani bioinformatician, data science researcher, and founder of Code with Bismillah"/>
   </a>
 </p>
 
