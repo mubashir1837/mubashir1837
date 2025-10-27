@@ -11,7 +11,7 @@
 
 <!--ABOUT-->
 <p align="center">
-  <a href="https://mubashir-a.vercel.app/about.html" target="_blank">
+  <a href="https://mubashirali.vercel.app/#about" target="_blank">
     <img src="https://github.com/mubashir1837/mubashir1837/assets/163585695/cb6a0720-7ac7-4306-856f-5c48827155d0" alt="Mubashir Ali is a Pakistani bioinformatician, data science researcher, and founder of Code with Bismillah">
   </a>
 </p>
@@ -81,7 +81,7 @@
 <h1 align="center">🔗 Website</h1>
   <div align ="center">
 <a href="https://mubashirali.vercel.app/" target="_blank">
-    <img src="https://github.com/mubashir1837/mubashir1837/assets/163585695/c76cab91-51c3-4f81-a80f-28f9dfff4a42" alt="portfolio3">
+    <img src="https://github.com/mubashir1837/mubashir1837/assets/163585695/c76cab91-51c3-4f81-a80f-28f9dfff4a42" alt="Mubashir Ali is a Pakistani bioinformatician, data science researcher, and founder of Code with Bismillah">
   </a>
 </div>
 <br>
@@ -91,87 +91,33 @@
 <h1 align="center">Accounts</h1>
 <p align="center">
 <a href="https://www.youtube.com/@CodeWithBismillah" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="CodeWithBismillah" height="30" width="40" />
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Mubashir Ali is a Pakistani bioinformatician, data science researcher, and founder of Code with Bismillah" height="30" width="40" />
 </a>
 <a href="https://www.linkedin.com/in/mubashirali3/" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mubashirali8" height="30" width="40" />
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mubashir Ali is a Pakistani bioinformatician, data science researcher, and founder of Code with Bismillah" height="30" width="40" />
 </a>
 <a href="https://www.facebook.com/codewithbismilah" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mubashiraliyaar" height="30" width="40" />
 </a>
 <a href="https://www.instagram.com/code_with_bismillah/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mubashir_aliyaar37" height="30" width="40" />
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Mubashir Ali is a Pakistani bioinformatician, data science researcher, and founder of Code with Bismillah" height="30" width="40" />
 </a>
 <a href="https://patreon.com/mubashir1837?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/patreon.svg" alt="Patreon" height="30" width="40" />
+  <img align="center" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/patreon.svg" alt="Mubashir Ali is a Pakistani bioinformatician, data science researcher, and founder of Code with Bismillah" height="30" width="40" />
 </a>
 </p>
 
 <p align="center">
     <a href="https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7238883223760470017" target="_blank">
-        <img src="https://img.shields.io/badge/Subscribe%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+        <img src="https://img.shields.io/badge/Subscribe%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Mubashir Ali is a Pakistani bioinformatician, data science researcher, and founder of Code with Bismillah">
     </a>
 </p>
 
 <p align="center">
     <a href="https://www.fiverr.com/mubashir183" target="_blank">
-        <img src="https://img.shields.io/badge/Fiverr-mubashir183-brightgreen?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr Badge">
+        <img src="https://img.shields.io/badge/Fiverr-mubashir183-brightgreen?style=for-the-badge&logo=fiverr&logoColor=white" alt="Mubashir Ali is a Pakistani bioinformatician, data science researcher, and founder of Code with Bismillah">
     </a>
 </p>
-
-## 🌐 Portfolio Projects
-
-Explore my portfolio projects hosted on various platforms. Each project showcases different skills, technologies, and design aesthetics. Click on any link to view the live demo:
-###  [Bio-Data-Hub VSCE](https://marketplace.visualstudio.com/items?itemName=Mubashir-Ali.bio-data-hub&wt.mc_id=studentamb_468108)
-Bioinformatics CSV data exploration extension for VS Code
-
-###  [Chroma Library](https://marketplace.visualstudio.com/items?itemName=CodewithBismillah.chroma-library&wt.mc_id=studentamb_468108)
-Advanced theming extension with customizable neon-futuristic color palettes, gradient backgrounds, and specialized themes for developers
-
-###  [Axion Themest](https://marketplace.visualstudio.com/items?itemName=CodewithBismillah.axion-themes&wt.mc_id=studentamb_468108)
-Advanced theming extension with customizable neon-futuristic color palettes
-
-### 🫀 [heart](https://heart-disease-prediction-ml-apgbeff8fsfda2ey.centralindia-01.azurewebsites.net)
-Heart disease classifier ML model
-
-### ⛈️ [Weather App](https://pk-weather.vercel.app/)
-Responsive Weather app
-
-
-### 🍽️ [Food Web](https://taza-foods-org.vercel.app/)
-An interactive food web platform showcasing various species and their relationships in an ecosystem. Developed using Next.js and a custom backend for dynamic content.
-
-### 🚀 [Mubashir Portfolio Hub](https://mubashir-a.vercel.app)
-A comprehensive portfolio showcasing various projects, each demonstrating different technologies and design styles. Created with Next.js and Tailwind CSS for a responsive design.
-
-### 🖥️ [Next.js Portfolio](https://nextjs-portfolio1-chi.vercel.app)
-A personal portfolio built using Next.js, showcasing multiple projects, blogs, and technical skills. It’s responsive and optimized for SEO.
-
-### 💡 [Code with Bismillah](https://codewithbismillah.vercel.app)
-An educational website where I share coding tutorials and tips for beginners. It’s designed with simplicity in mind, focusing on HTML, CSS, and JavaScript.
-
-### 📖 [Story of Karbala](https://story-of-karbala.vercel.app)
-A platform dedicated to telling the story of Karbala with an interactive timeline and detailed events. Built with React and styled components for a smooth user experience.
-
-### 🤣 [Joke Generator](https://joke--generator.vercel.app)
-A simple web app that generates random jokes from an API. It is a fun project built using React and styled with CSS.
-
-### 🎹 [Piano Org](https://piano-org.vercel.app)
-An interactive piano keyboard application built using JavaScript. Users can play notes by clicking the keys or using the keyboard.
-
-### 🏆 [Best Portfolio](https://bestportfolio.vercel.app)
-A personal portfolio designed to showcase projects, achievements, and skills in web development. It features dynamic content and is optimized for all screen sizes.
-
-### 🌲 [Link Tree](https://link--tree.vercel.app)
-A personalized "link tree" for sharing multiple links. Users can easily customize it to include various social media and portfolio links.
-
-
-
-Feel free to explore and share your feedback!
-
-
-
-
 
 
 
