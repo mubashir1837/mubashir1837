@@ -12,6 +12,10 @@
 
 ![Bottom_up](https://github.com/user-attachments/assets/4da6977a-113b-4fab-b853-eb496dd8cedd)<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="z-index:1;position:relative" width="854" height="200" viewBox="0 0 854 200">
 
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=mubashir1837&color=blueviolet&style=flat-square" alt="Visitor Count" />
+</p>
+
 
 <!--ABOUT-->
 <p align="center">
@@ -91,6 +95,24 @@
 </div>
 <br>
 
+<!--GAME CONSOLE-->
+<h1 align="center">🕹️ Developer Console</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=80&section=header&text=System%20Status:%20Online&fontSize=25&animation=fadeIn&fontColor=7F3FBF" />
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/49257007/116918804-097da400-ac25-11eb-980b-4bd07a7a2a0d.gif" width="100%" alt="Chrome Dino Running" />
+</p>
+
+<p align="center">
+<b>PLAYER:</b> MUBASHIR_ALI | <b>LEVEL:</b> TOP_COMMITTER | <b>REGION:</b> PAKISTAN 🇵🇰
+</p>
+<p align="center">
+<i>"Hunting for genomic sequences... [Press Space to Jump]"</i>
+</p>
+<br>
+
 <!--SOCIAL ACCOUNTS-->
 
 <h1 align="center">Accounts</h1>
@@ -129,7 +151,6 @@
 <!--SKILLS-->
 <h1 align="center">Skills</h1>
 
-![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -149,10 +170,8 @@
 <h1 align="center">Open Source</h1-->
 
 
-<!--CONFIG FILE-
-<h1 align="center">Config Files</h1>
-
-[![Mubashir Readme](https://github-readme-stats.vercel.app/api/pin/?username=mubashir1837&repo=mubashir1837&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/mubashir1837) -->
+<!--CONFIG FILES-->
+<h1 align="center">⚙️ Configuration</h1>
 <p align="center">
   <a href="https://github.com/mubashir1837?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
@@ -182,6 +201,18 @@
 </a>
 
 ![Mubashir's Graph](https://github-readme-activity-graph.vercel.app/graph?username=mubashir1837&custom_title=Mubashir%20Ali's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
+<h1 align="center">🏆 GitHub Trophies</h1>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=mubashir1837&theme=radical&no-frame=true&margin-w=15&margin-h=15" alt="Mubashir's GitHub Trophies" />
+  </a>
+</p>
+
+<h1 align="center">🧊 3D Contributions</h1>
+<p align="center">
+  <img src="https://github-profile-3d-contrib.vercel.app/api?username=mubashir1837&theme=radical" alt="Mubashir's 3D Contributions" />
+</p>
 
 
 
