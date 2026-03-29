@@ -121,6 +121,7 @@
 <p align="center">
     <a href="https://www.fiverr.com/mubashir183" target="_blank">
         <img src="https://img.shields.io/badge/Fiverr-mubashir183-brightgreen?style=for-the-badge&logo=fiverr&logoColor=white" alt="Mubashir Ali is a Pakistani bioinformatician, data science researcher, and founder of Code with Bismillah">
+        
     KILLS-->
 <h1 align="center">Skills</h1>
 
