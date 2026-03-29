@@ -33,96 +33,102 @@
 <p align="center">I’m a Bioinformatician and data science professiional passionate about transforming complex biological data into actionable insights. My work focuses on genomics, transcriptomics, and machine learning applications in life sciences, with a strong interest in bridging biology and AI to enable data-driven discoveries. I have worked on multiple projects, including GeneFix AI, an AI-powered platform for predictive genomics and mutation analysis; GenomeHouse, an integrated Python framework for genome data preprocessing, sequence alignment, and visualization; and Bio Data Hub, a centralized platform for storing, analyzing, and sharing omics datasets. My technical expertise includes Python, R, Biopython, Pandas, NumPy, Seaborn, Scikit-learn, TensorFlow, BLAST, NGS data analysis, and Git. I am particularly interested in cancer genomics, biomarker discovery, precision medicine, and computational biology.</p>
 
 
-[![committers.top badge](https://user-badge.committers.top/pakistan/mubashir1837.svg)](https://user-badge.committers.top/pakistan/mubashir1837)
-[![Microsoft Verified Badge](https://img.shields.io/badge/Verified%20by-Microsoft%20Entra-blue)](https://verifiedid.did.msidentity.com/v1.0/tenants/675f820f-66d9-48ce-8fac-2c548601cd9d/verifiableCredentials/contracts/7bd00055-fce8-bdfa-8514-bf977e099ca3/manifest)
-[![Upwork](https://img.shields.io/badge/Upwork-Top%20Rated-blue?logo=upwork)](https://www.upwork.com/freelancers/~0155a27ec55b615628)
-[![Upwork Agency](https://img.shields.io/badge/Upwork‑Agency-191828829-brightgreen?logo=upwork)](https://www.upwork.com/agencies/1918288291912185024/)
-[![WhatsApp Channel](https://img.shields.io/badge/WhatsApp‑Channel-Join%20Us-green?logo=whatsapp)](https://whatsapp.com/channel/0029Vag7XYc6LwHkv1yfVo3A)
-[![GitHub](https://img.shields.io/badge/GitHub-mubashir1837-white?logo=github)](https://github.com/mubashir1837)
-[![Portfolio](https://img.shields.io/badge/mubashirali.vercel.app-blue?logo=vercel)](https://mubashirali.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mubashirali3-blue?logo=linkedin)](https://linkedin.com/in/mubashirali3/)
-[![Microsoft Learn](https://img.shields.io/badge/Microsoft Learn-mubashir1837-blueviolet?logo=microsoft)](https://learn.microsoft.com/users/mubashir1837/?wt.mc_id=studentamb_468108)
-[![g.dev](https://img.shields.io/badge/g.dev-mubashir1837-lightgrey?logo=google)](https://g.dev/mubashir1837)
-[![Credly](https://img.shields.io/badge/Credly-mubashir1837-blue?logo=credly)](https://www.credly.com/users/mubashir1837)
-[![YouTube](https://img.shields.io/badge/YouTube-CodeWithBismillah-red?logo=youtube)](https://www.youtube.com/@CodeWithBismillah)
-[![CodeWithBismillah](https://img.shields.io/badge/Website-codewithbismillah.online-orange?logo=googlechrome)](https://www.codewithbismillah.online/)
-[![CWB‑LinkedIn](https://img.shields.io/badge/LinkedIn‑Company‑CWB-blue?logo=linkedin)](https://www.linkedin.com/company/code-with-bismiallah/)
-[![NPM‑bismillahcss](https://img.shields.io/badge/NPM‑bismillahcss-red?logo=npm)](https://www.npmjs.com/package/bismillahcss)
-[![NPM‑profile](https://img.shields.io/badge/NPM‑mubashir1837-red?logo=npm)](https://www.npmjs.com/~mubashir1837)
-[![HackerRank](https://img.shields.io/badge/HackerRank-mubashir1837-green?logo=hackerrank)](https://www.hackerrank.com/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-mubashir1837-yellow?logo=leetcode)](https://leetcode.com/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-mubashir1183-blue?logo=kaggle)](https://www.kaggle.com/mubashir1183)
-[![DataCamp](https://img.shields.io/badge/DataCamp-mubashir1837-lightblue?logo=datacamp)](https://www.datacamp.com/portfolio/mubashir1837)
-[![StackOverflow](https://img.shields.io/badge/StackOverflow-Mubashir%20Ali-orange?logo=stackoverflow)](https://stackoverflow.com/users/26145758/mubashir-ali)
-[![Linktree](https://img.shields.io/badge/Linktree-mubashir1837-lightgreen?logo=linktree)](https://linktr.ee/mubashir1837)
-[![ORCID](https://img.shields.io/badge/ORCID-0009--0006--0222--7585-lightgreen?logo=orcid)](https://orcid.org/0009-0006-0222-7585)
-[![VSCode‑Bio‑Data‑Hub](https://img.shields.io/badge/VSCode‑Extension‑Bio‑Data‑Hub-007ACC?logo=visualstudiocode)](https://marketplace.visualstudio.com/items?itemName=Mubashir-Ali.bio-data-hub)
-[![Coursera](https://img.shields.io/badge/Coursera-mubashir1837-red?logo=coursera)](https://www.coursera.org/learner/mubashir1837)
-[![Twitter (X)](https://img.shields.io/badge/Twitter‑@mubashir1837-blue?logo=twitter)](https://x.com/mubashir1837)
-[![Twitter‑CWB](https://img.shields.io/badge/Twitter‑@CWB_Online-blue?logo=twitter)](https://x.com/CWB_Online)
-[![Sponsor](https://img.shields.io/badge/Sponsor‑me-on%20GitHub-purple?logo=github)](https://github.com/sponsors/mubashir1837)
-[![Open Collective: You](https://img.shields.io/badge/OpenCollective-mubashir1837-orange?logo=opencollective)](https://opencollective.com/mubashir1837)
-[![Open Collective: BismillahCSS](https://img.shields.io/badge/OpenCollective-BismillahCSS-orange?logo=opencollective)](https://opencollective.com/bismillahcss)
-[![Pinterest](https://img.shields.io/badge/Pinterest-mubashir1837-red?logo=pinterest)](https://ar.pinterest.com/mubashir1837)
-[![Quora](https://img.shields.io/badge/Quora-Mubashir%20Ali-red?logo=quora)](https://www.quora.com/profile/Mubashir-Ali-762)
-[![Devpost](https://img.shields.io/badge/Devpost-mubashir1837-blue?logo=devpost)](https://devpost.com/mubashir1837)
-[![Facebook](https://img.shields.io/badge/Facebook‑Page‑CodeWithBismi-blue?logo=facebook)](https://www.facebook.com/codewithbismillah.online)
-[![TikTok](https://img.shields.io/badge/TikTok-@codewithbismillah-lightgrey?logo=tiktok)](https://www.tiktok.com/@codewithbismillah)
-[![Google Scholar](https://img.shields.io/badge/Scholar-mubashir1837-blue?logo=google)](https://scholar.google.com/citations?user=cSRYdWAAAAAJ)
-[![BioRxiv](https://img.shields.io/badge/biorxiv-GeneFix‑AI-brightgreen?logo=biorxiv)](https://www.biorxiv.org/content/10.1101/2025.05.04.652132v1)
-[![Sciety](https://img.shields.io/badge/Sciety-GeneFix‑AI-brightgreen?logo=researchgate)](https://sciety.org/articles/activity/10.1101/2025.05.04.652132)
-[![Patreon](https://img.shields.io/badge/Patreon-mubashir1837-orange?logo=patreon)](https://www.patreon.com/c/mubashir1837)
+<h1 align="center">🔗 Mubashir's Digital Ecosystem</h1>
+<p align="center">Explore my platforms, research, code, and communities.</p>
 
+<div align="center">
 
+### 🌐 Digital Portfolios & Platforms
+[![Main Portfolio](https://img.shields.io/badge/Portfolio-mubashirali.vercel.app-blue?style=for-the-badge&logo=vercel)](https://mubashirali.vercel.app/)
+[![Bio Data Hub](https://img.shields.io/badge/Bio%20Data%20Hub-Platform-007ACC?style=for-the-badge&logo=web&logoColor=white)](https://bio-data-hub.vercel.app/)
+[![CodeWithBismillah](https://img.shields.io/badge/CodeWithBismillah-Online-green?style=for-the-badge&logo=googlechrome)](https://www.codewithbismillah.online/)
+[![Linktree](https://img.shields.io/badge/Linktree-mubashir1837-success?style=for-the-badge&logo=linktree)](https://linktr.ee/mubashir1837)
+[![Carrd](https://img.shields.io/badge/Carrd-Profile-black?style=for-the-badge&logo=carrd)](https://mubashir1837.carrd.co/)
+[![About.me](https://img.shields.io/badge/About.me-mubashir1837-blue?style=for-the-badge)](https://about.me/mubashir1837/)
 
+### 🔬 Academic & Research Profiles
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-blue?style=for-the-badge&logo=google-scholar)](https://scholar.google.com/citations?user=cSRYdWAAAAAJ)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0006--0222--7585-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0006-0222-7585)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-Mubashir%20Ali-00CCBB?style=for-the-badge&logo=researchgate)](https://www.researchgate.net/profile/Mubashir-Ali-31)
+[![bioRxiv](https://img.shields.io/badge/bioRxiv-GeneFix%20AI-B31B1B?style=for-the-badge)](https://www.biorxiv.org/content/10.1101/2025.05.04.652132v1)
+[![Semantic Scholar](https://img.shields.io/badge/Semantic%20Scholar-Profile-blue?style=for-the-badge)](https://www.semanticscholar.org/author/Mubashir-Ali/2361732131)
+[![Academia.edu](https://img.shields.io/badge/Academia.edu-Profile-black?style=for-the-badge)](https://qau.academia.edu/MubashirAli)
+[![Frontiers](https://img.shields.io/badge/Frontiers-Loop-blue?style=for-the-badge)](https://loop.frontiersin.org/people/3198868)
+[![Web of Science](https://img.shields.io/badge/Web%20of%20Science-OEN--7503--2025-blue?style=for-the-badge)](https://www.webofscience.com/wos/author/record/OEN-7503-2025)
+[![Sciety](https://img.shields.io/badge/Sciety-Articles-brightgreen?style=for-the-badge)](https://sciety.org/articles/activity/10.1101/2025.05.04.652132)
 
-<!--/p>
-<h1 align="center">🚀About Me <h1>
-  <h3 align="center">Welcome to my GitHub! I'm an undergraduate student and Bioinformatics enthusiast. With a passion for data analysis of molecules and web development, I'm dedicated to creating impactful 
-       projects. Explore my repositories to discover my work in programming, data analysis, and web development.Let's innovate together!</h3>
-<br-->
-  
-<!--WEBSITE-->
-<h1 align="center">🔗 Website</h1>
-  <div align ="center">
-<a href="https://mubashirali.vercel.app/" target="_blank">
-    <img src="https://github.com/mubashir1837/mubashir1837/assets/163585695/c76cab91-51c3-4f81-a80f-28f9dfff4a42" alt="Mubashir Ali is a Pakistani bioinformatician, data science researcher, and founder of Code with Bismillah">
-  </a>
-</div>
+### 💻 Open Source, Tools & Packages
+[![PyPI](https://img.shields.io/badge/PyPI-Biobuntu-blue?style=for-the-badge&logo=pypi)](https://pypi.org/project/biobuntu/)
+[![NPM BismillahCSS](https://img.shields.io/badge/NPM-bismillahcss-red?style=for-the-badge&logo=npm)](https://www.npmjs.com/package/bismillahcss)
+[![VSCode Extensions](https://img.shields.io/badge/VSCode-Marketplace-007ACC?style=for-the-badge&logo=visualstudiocode)](https://marketplace.visualstudio.com/publishers/Mubashir-Ali)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-Models-yellow?style=for-the-badge&logo=huggingface)](https://huggingface.co/mubashir1837)
+[![Bohrium](https://img.shields.io/badge/Bohrium-Profile-blue?style=for-the-badge)](https://www.bohrium.com/user/mubashir1837)
+
+### 👨‍💻 Coding Skills, Data & Certification
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/mubashir1837/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/mubashir1837)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/profile/mubashir1837)
+[![DataCamp](https://img.shields.io/badge/DataCamp-Profile-03E810?style=for-the-badge&logo=datacamp)](https://www.datacamp.com/portfolio/mubashir1837)
+[![Coursera](https://img.shields.io/badge/Coursera-Learner-0056D2?style=for-the-badge&logo=coursera)](https://www.coursera.org/learner/mubashir1837)
+[![Credly](https://img.shields.io/badge/Credly-Badges-FF6B00?style=for-the-badge&logo=credly)](https://www.credly.com/users/mubashir1837)
+
+### ✍️ Books, Writing & Publications
+[![Amazon Author](https://img.shields.io/badge/Amazon-Author%20Page-FF9900?style=for-the-badge&logo=amazon)](https://www.amazon.com/author/mubashiali)
+[![The Genome Story](https://img.shields.io/badge/Book-The%20Genome%20Story-orange?style=for-the-badge)](https://www.amazon.com/Genome-Story-Mubashir-Ali/dp/B0GDKDW884)
+[![GoodReads](https://img.shields.io/badge/GoodReads-Author-brown?style=for-the-badge&logo=goodreads)](https://www.goodreads.com/author/show/67799666.Mubashir_Ali)
+[![Substack](https://img.shields.io/badge/Substack-Newsletter-FF6719?style=for-the-badge&logo=substack)](https://mubashir1837.substack.com/)
+[![Hashnode](https://img.shields.io/badge/Hashnode-Blog-2962FF?style=for-the-badge&logo=hashnode)](https://mubashir1837.hashnode.dev/)
+[![Medium](https://img.shields.io/badge/Medium-Blog-black?style=for-the-badge&logo=medium)](https://medium.com/@mubashir1837)
+
+### 🏢 Work, Startups & Freelancing
+[![Upwork](https://img.shields.io/badge/Upwork-Top%20Rated-14A800?style=for-the-badge&logo=upwork)](https://www.upwork.com/freelancers/~0155a27ec55b615628)
+[![Upwork Agency](https://img.shields.io/badge/Upwork-Agency-14A800?style=for-the-badge&logo=upwork)](https://www.upwork.com/agencies/1918288291912185024/)
+[![Fiverr](https://img.shields.io/badge/Fiverr-Freelancer-00B22D?style=for-the-badge&logo=fiverr)](https://www.fiverr.com/mubashir183)
+[![GeneFixAI Crunchbase](https://img.shields.io/badge/GeneFixAI-Crunchbase-blue?style=for-the-badge)](https://www.crunchbase.com/organization/genefixai)
+[![TynexAI Crunchbase](https://img.shields.io/badge/TynexAI-Crunchbase-blue?style=for-the-badge)](https://www.crunchbase.com/organization/tynexai)
+[![CWB LinkedIn](https://img.shields.io/badge/CodeWithBismillah-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/company/code-with-bismiallah/)
+
+### 🌍 Social Media & Communities
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mubashirali3-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/mubashirali3/)
+[![Twitter (X)](https://img.shields.io/badge/X-mubashir1837-black?style=for-the-badge&logo=x)](https://x.com/mubashir1837)
+[![YouTube](https://img.shields.io/badge/YouTube-BioWithMubashirAli-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/@BioWithMubashirAli)
+[![WhatsApp Channel](https://img.shields.io/badge/WhatsApp-Channel-25D366?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029Vag7XYc6LwHkv1yfVo3A)
+[![Instagram](https://img.shields.io/badge/Instagram-Profile-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/mubashir18377/)
+[![Facebook](https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook)](https://www.facebook.com/mubashir1837)
+[![TikTok](https://img.shields.io/badge/TikTok-mubashir.1837-black?style=for-the-badge&logo=tiktok)](https://www.tiktok.com/@mubashir.1837/)
+
+### 🤝 Support & Sponsorship
+[![GitHub Sponsors](https://img.shields.io/badge/GitHub-Sponsors-EA4AAA?style=for-the-badge&logo=githubsponsors)](https://github.com/sponsors/mubashir1837)
+[![Patreon](https://img.shields.io/badge/Patreon-Support-FF424D?style=for-the-badge&logo=patreon)](https://www.patreon.com/c/mubashir1837)
+[![OpenCollective](https://img.shields.io/badge/OpenCollective-Support-7FADF2?style=for-the-badge&logo=opencollective)](https://opencollective.com/mubashir1837)
+
 <br>
 
-<!--SOCIAL ACCOUNTS-->
+<details>
+  <summary><b>Click to Expand Extended Directory & Mentions 📂</b></summary>
+  <br>
+  <ul>
+    <li><a href="https://www.wikidata.org/wiki/Q135921355">Wikidata Entry</a></li>
+    <li><a href="https://commons.wikimedia.org/wiki/File:Mubashir_Ali_-_Pakistani_Bioinformatician.jpg_01.jpg">Wikimedia Commons</a></li>
+    <li><a href="https://www.ted.com/profiles/50451970">TED Profile</a></li>
+    <li><a href="https://en.everybodywiki.com/Code_with_Bismillah">EverybodyWiki: Code with Bismillah</a></li>
+    <li><a href="https://www.producthunt.com/@mubashir1837/">ProductHunt</a></li>
+    <li><a href="https://www.f6s.com/mubashir1837">F6S Profile</a></li>
+    <li><a href="https://www.saashub.com/biobuntu">SaaSHub Biobuntu</a></li>
+    <li><a href="https://www.saashub.com/bismillahcss">SaaSHub BismillahCSS</a></li>
+    <li><a href="https://devpost.com/mubashir1837">Devpost</a></li>
+    <li><a href="https://www.trustpilot.com/review/codewithbismillah.online">TrustPilot Reviews</a></li>
+    <li><a href="https://forem.com/mubashir1837">Forem</a></li>
+    <li><a href="https://lablab.ai/u/@mubashir1837">Lablab.ai</a></li>
+    <li><a href="https://www.provenexpert.com/code-with-bismillah/">ProvenExpert</a></li>
+    <li><a href="https://dev.to/mubashir1837">Dev.to</a></li>
+    <li><a href="https://www.quora.com/profile/Mubashir-Ali-959">Quora</a></li>
+  </ul>
+</details>
 
-<h1 align="center">Accounts</h1>
-<p align="center">
-<a href="https://www.youtube.com/@CodeWithBismillah" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Mubashir Ali is a Pakistani bioinformatician, data science researcher, and founder of Code with Bismillah" height="30" width="40" />
-</a>
-<a href="https://www.linkedin.com/in/mubashirali3/" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mubashir Ali is a Pakistani bioinformatician, data science researcher, and founder of Code with Bismillah" height="30" width="40" />
-</a>
-<a href="https://www.facebook.com/codewithbismilah" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mubashiraliyaar" height="30" width="40" />
-</a>
-<a href="https://www.instagram.com/code_with_bismillah/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Mubashir Ali is a Pakistani bioinformatician, data science researcher, and founder of Code with Bismillah" height="30" width="40" />
-</a>
-<a href="https://patreon.com/mubashir1837?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/patreon.svg" alt="Mubashir Ali is a Pakistani bioinformatician, data science researcher, and founder of Code with Bismillah" height="30" width="40" />
-</a>
-</p>
-
-<p align="center">
-    <a href="https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7238883223760470017" target="_blank">
-        <img src="https://img.shields.io/badge/Subscribe%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Mubashir Ali is a Pakistani bioinformatician, data science researcher, and founder of Code with Bismillah">
-    </a>
-</p>
-
-<p align="center">
-    <a href="https://www.fiverr.com/mubashir183" target="_blank">
-        <img src="https://img.shields.io/badge/Fiverr-mubashir183-brightgreen?style=for-the-badge&logo=fiverr&logoColor=white" alt="Mubashir Ali is a Pakistani bioinformatician, data science researcher, and founder of Code with Bismillah">
-        
-    KILLS-->
+</div>
+<br>
+<br>
 <h1 align="center">Skills</h1>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
