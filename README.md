@@ -6,7 +6,11 @@
 </p> -->
 
 
-
+<p align="center">
+  <a href="https://www.saashub.com/biobuntu?utm_source=badge&utm_campaign=badge&utm_content=biobuntu&badge_variant=color&badge_kind=approved" target="_blank">
+    <img src="https://cdn-b.saashub.com/img/badges/approved-color.png?v=1" alt="BioBuntu Badge" width="150"/>
+  </a>
+</p>
 
 
 
