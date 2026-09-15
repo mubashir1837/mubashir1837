@@ -28,9 +28,14 @@
 </p>
 
 
-<h3>Founder @ Code with Bismillah | Aspiring Bioinformatics & Data Science Professional | Bridging Biology & Data Researcher | Genomics, Machine Learning, AI | Python, R, Bioinformatics Tools
+<h3>AI Engineer & Bioinformatician | Building Agentic AI for Multi-Omics & Precision Medicine | Founder @TynexAI | Full-Stack ML Deployment | Bridging Biology & Data Researcher | Genomics, Machine Learning, AI
 </h3>
-<p align="center">I’m a Bioinformatician and data science professiional passionate about transforming complex biological data into actionable insights. My work focuses on genomics, transcriptomics, and machine learning applications in life sciences, with a strong interest in bridging biology and AI to enable data-driven discoveries. I have worked on multiple projects, including GeneFix AI, an AI-powered platform for predictive genomics and mutation analysis; GenomeHouse, an integrated Python framework for genome data preprocessing, sequence alignment, and visualization; and Bio Data Hub, a centralized platform for storing, analyzing, and sharing omics datasets. My technical expertise includes Python, R, Biopython, Pandas, NumPy, Seaborn, Scikit-learn, TensorFlow, BLAST, NGS data analysis, and Git. I am particularly interested in cancer genomics, biomarker discovery, precision medicine, and computational biology.</p>
+<p align="center">
+Innovative AI and machine learning engineer and researcher specializing in the intersection of artificial intelligence and life sciences. My mission is to bridge the gap between complex biological data and actionable insights, driving innovation in genomics, transcriptomics, and computational biology.
+Throughout my career, I have focused on developing computational tools that accelerate discovery and improve decision making in healthcare. I possess strong proficiency in deploying, hosting, and scaling sophisticated machine learning and deep learning models on modern cloud platforms, ensuring robust pipeline performance.
+Beyond data science, I am a highly skilled software developer with expertise in TypeScript, Next.js, and modern web technologies. This dual capability allows me to build end to end applications, transforming theoretical algorithms into functional, user friendly tools for researchers and clinicians. I am passionate about pushing the boundaries of what technology can achieve in life sciences.
+I also lead TynexAI, an artificial intelligence services enterprise, and Code with Bismillah, an educational technology platform dedicated to advancing knowledge in the field.
+Currently, I am actively seeking collaborations with professors and research labs working at the forefront of AI/ML, multi-omics, and computational genomics.</p>
 
 
 <h1 align="center">🔗 Mubashir's Digital Ecosystem</h1>
