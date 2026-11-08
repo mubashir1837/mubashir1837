@@ -1,4 +1,5 @@
 
+
 <!--<p align="center">
     <a href="https://mubashirali.vercel.app/contact.html" target="_blank">
         <img src="https://github.com/mubashir1837/mubashir1837/assets/163585695/e867cbc3-d23c-4125-9b71-82541143300c" alt="converter">
@@ -30,6 +31,10 @@
 
 <h3>AI Engineer & Bioinformatician | Building Agentic AI for Multi-Omics & Precision Medicine | Founder @TynexAI | Full-Stack ML Deployment | Bridging Biology & Data Researcher | Genomics, Machine Learning, AI
 </h3>
+
+
+<a href="https://joss.theoj.org/papers/9e11ae6a98f4a7f3ca62eba12a2bcaff" align="center"><img src="https://joss.theoj.org/papers/9e11ae6a98f4a7f3ca62eba12a2bcaff/status.svg"></a>
+
 <p align="center">
 Innovative AI and machine learning engineer and researcher specializing in the intersection of artificial intelligence and life sciences. My mission is to bridge the gap between complex biological data and actionable insights, driving innovation in genomics, transcriptomics, and computational biology.
 Throughout my career, I have focused on developing computational tools that accelerate discovery and improve decision making in healthcare. I possess strong proficiency in deploying, hosting, and scaling sophisticated machine learning and deep learning models on modern cloud platforms, ensuring robust pipeline performance.
