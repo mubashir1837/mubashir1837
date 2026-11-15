@@ -65,7 +65,7 @@ Currently, I am actively seeking collaborations with professors and research lab
 ### 🌐 Digital Portfolios & Platforms
 [![Main Portfolio](https://img.shields.io/badge/Portfolio-mubashirali.vercel.app-blue?style=for-the-badge&logo=vercel)](https://mubashirali.vercel.app/)
 [![Bio Data Hub](https://img.shields.io/badge/Bio%20Data%20Hub-Platform-007ACC?style=for-the-badge&logo=web&logoColor=white)](https://bio-data-hub.vercel.app/)
-[![CodeWithBismillah](https://img.shields.io/badge/CodeWithBismillah-Online-green?style=for-the-badge&logo=googlechrome)](https://www.codewithbismillah.online/)
+[![CodeWithBismillah](https://img.shields.io/badge/CodeWithBismillah-Online-green?style=for-the-badge&logo=googlechrome)](https://www.codewithbismillah.com)
 [![Linktree](https://img.shields.io/badge/Linktree-mubashir1837-success?style=for-the-badge&logo=linktree)](https://linktr.ee/mubashir1837)
 [![Carrd](https://img.shields.io/badge/Carrd-Profile-black?style=for-the-badge&logo=carrd)](https://mubashir1837.carrd.co/)
 [![About.me](https://img.shields.io/badge/About.me-mubashir1837-blue?style=for-the-badge)](https://about.me/mubashir1837/)
