@@ -148,7 +148,7 @@ flowchart LR
   <a href="https://www.webofscience.com/wos/author/record/OEN-7503-2025"><img src="https://img.shields.io/badge/Web%20of%20Science-5E33BF?style=for-the-badge&logo=clarivate&logoColor=white" alt="Web of Science"/></a>
   <a href="https://sciety.org/articles/activity/10.1101/2025.05.04.652132"><img src="https://img.shields.io/badge/Sciety-Articles-2EA043?style=for-the-badge" alt="Sciety"/></a>
   <br/><br/>
-  <p>🔭 <b>Currently seeking collaborations</b> with professors and research labs at the frontier of <b>AI/ML, multi-omics and computational genomics</b>. If that's you, <a href="https://mubashirali.vercel.app/contact.html">let's talk</a>.</p>
+  <p>🔭 <b>Currently seeking collaborations</b> with professors and research labs at the frontier of <b>AI/ML, multi-omics and computational genomics</b>. If that's you, <a href="https://mubashirali.vercel.app/">let's talk</a>.</p>
 </div>
 
 ---
